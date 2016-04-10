@@ -4,6 +4,9 @@ title: Resume
 permalink: /resume/
 ---
 
+{% include icon-github.html username=site.github_username %}
+{% include icon-codepen.html username=site.codepen_username %}
+
 #### about me ####
 
 I am a dedicated front end developer passionate about building web technologies. I am highly proficient in HTML5, CSS3, jQuery, responsive web development & Wordpress Development. I have a working knowledge of vanilla javascript development, AJAX & JSON. I also have a working knowledge of PHP & database management practices.
