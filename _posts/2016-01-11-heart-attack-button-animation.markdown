@@ -3,7 +3,7 @@ layout: post
 title: "Heart Attack Man"
 date: 2016-01-11 14:41:56 -0400
 comments: true
-categories: CSS3 Animations
+categories: CSS3
 ---
 
 Here's a Beastie Button Animation for ya.

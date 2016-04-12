@@ -3,7 +3,7 @@ layout: post
 title: "Lions, Tigers & Bears"
 date: 2016-01-21 12:42:56 -0400
 comments: true
-categories: jQuery, API
+categories: API
 ---
 
 Oh my.

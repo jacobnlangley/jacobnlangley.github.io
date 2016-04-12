@@ -3,7 +3,7 @@ layout: post
 title: "Walking Giants"
 date: 2015-09-07 14:34:14 -0400
 comments: true
-categories: writing, illustration
+categories: illustration
 ---
 
 Into the trees, they walked.

@@ -3,7 +3,7 @@ layout: post
 title: "The Boy Who Always Was"
 date: 2015-11-03 14:36:57 -0400
 comments: true
-categories: writing, illustration
+categories: illustration
 ---
 He had always been.
 
