@@ -8,8 +8,9 @@
 # Site settings
 title: Jacob N Langley
 email: jacob@jacobnlangley.com
+profession: front-end web developer
 description: > # this means to ignore newlines until "baseurl:"
-  I am a Front-End Web Developer living in Atlanta GA. Proficient in: HTML5, CSS3, jQuery, Javascript, AJAX, JSON, PHP, Wordpress, Magento.
+  I am currently a freelance Front-End Web Developer living in Atlanta GA. Proficient in: HTML5, CSS3, jQuery, Javascript, AJAX, JSON, PHP, Wordpress, Magento.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jacobnlangley.com" # the base hostname & protocol for your site
 twitter_username:
