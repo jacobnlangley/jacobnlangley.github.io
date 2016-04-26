@@ -7,6 +7,7 @@
 
 # Site settings
 title: Jacob N Langley
+subtitle: on development | on writing | on illustration
 email: jacob@jacobnlangley.com
 profession: front-end web developer
 description: > # this means to ignore newlines until "baseurl:"
