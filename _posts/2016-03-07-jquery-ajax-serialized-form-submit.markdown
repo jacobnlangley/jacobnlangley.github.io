@@ -4,7 +4,7 @@ title: "jQuery AJAX serialized form submit"
 date: 2016-03-07 03:14:56 -0400
 comments: true
 categories: Angular
-published: true
+published: false
 ---
 
 Gotta have this one in your back pocket for quick reference.
