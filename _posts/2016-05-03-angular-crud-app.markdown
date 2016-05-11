@@ -13,4 +13,4 @@ Here's the dirty dirty.
 
 This is a first attempt at an Angular CRUD app with a firebase backend. And yes miracle of Christmas miracles, it is not a ToDo app.
 
-App is [here](http://jacobnlangley.bitbucket.org/ng-crud-app){:target="_blank"}.
+App is [here](http://jacobnlangley.bitbucket.org/ng-crud-app/){:target="_blank"}.
