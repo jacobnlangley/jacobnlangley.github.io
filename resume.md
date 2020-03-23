@@ -36,9 +36,8 @@ I am happiest when building stuff.
 + **Client:**	Macquarium – Atlanta, GA based digital agency
 + **Position:**	June 2016 – April 2020:  Senior Developer, FED.
 + **Environment:**	HTML5, Twig, Nunjucks, Handlebars, CSS3, Sass, Less, JavaScript, JQuery, AngularJS, React, Kentico, Wordpress, PHP, Laravel, MySQL, Git, Grunt, Gulp
-+ **Description:**	Macquarium is an Atlanta, GA based digital agency authoring custom web solutions and applications for clients across a broad spectrum of verticals. Responsible for the development &amp; implementation of front end technologies across the agency&#39;s entire Client portfolio. Responsible for scoping and estimating level of effort to complete and deliver front-end development efforts.  
-  
----  
++ **Description:**	Macquarium is an Atlanta, GA based digital agency authoring custom web solutions and applications for clients across a broad spectrum of verticals. Responsible for the development &amp; implementation of front end technologies across the agency&#39;s entire Client portfolio. Responsible for scoping and estimating level of effort to complete and deliver front-end development efforts.<br><br> 
+---<br><br>
 + **Client:**	Look Listen – Atlanta, GA based digital agency
 + **Position:**	October 2013 – March 2016:  Front end web developer.
 + **Environment:**	HTML5, Handlebars, CSS3, Sass, JavaScript, JQuery, AJAX, JSON, Wordpress, Magento, PHP, Git
