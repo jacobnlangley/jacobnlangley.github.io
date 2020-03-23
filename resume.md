@@ -10,11 +10,12 @@ published: true
 
 #### about me ####
 
-I am a dedicated front end developer passionate about building web technologies. I am highly proficient in HTML5, CSS3, jQuery,responsive web development & Wordpress Development. I have a working knowledge of vanilla javascript development, AJAX & JSON. I also have a working knowledge of PHP & database management practices.
+I am a dedicated front end developer passionate about building web technologies. I am highly proficient in HTML5, CSS3, jQuery, responsive web development & Wordpress Development. I have a proficient knowledge of javascript, AngularJS and React development. I also have a solid knowledge of PHP & MySQL database management practices. 
 
 I enjoy learning and sharing this learned knowledge.  I am ever a student and enjoy learning from others. I truly enjoy the collaborative process & thrive as a part of a team of creative professionals.
-
+ 
 I am happiest when building stuff.
+
 
 #### web development skills ####
 
