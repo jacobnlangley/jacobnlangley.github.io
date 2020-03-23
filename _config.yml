@@ -18,6 +18,9 @@ treehouse_username:
 github_username:  jacobnlangley
 codepen_username:  jacobnlangley
 
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+
 # Build settings
 markdown: kramdown
 
