@@ -20,16 +20,19 @@ I am happiest when building stuff.
 
   + HTML ~ 10+ years
   + CSS ~ 10+ years
-  + HTML5 ~ 4+ years
-  + CSS3 ~ 5+ years
-  + JavaScript ~ 3+ years
+  + HTML5 ~ 5+ years
+  + Responsive Dev ~ 6+ years
+  + CSS3 ~ 6+ years
+  + Sass/Less ~ 6+ years
+  + JavaScript ~ 6+ years
   + jQuery ~ 6+ years
-  + AJAX / JSON ~ 2+ years
+  + AngularJS ~ 2+ years
+  + React ~ 1+ years
   + Sass ~ 3+ years
-  + Wordpress Dev ~ 6+ years
-  + Responsive Dev ( Bootstrap & Zurb ) ~ 5+ years
-  + Magento ~ 1+ years
-  + PHP ~ 5+ years
+  + Wordpress Dev ~ 10+ years
+  + PHP ~ 6+ years
+  + Git ~ 6+ years
+  + Grunt/Gulp ~ 6+ years
 
 #### professional experience ####
 
