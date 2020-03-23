@@ -19,7 +19,7 @@ github_username:  jacobnlangley
 codepen_username:  jacobnlangley
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/8-bit-jacob.md
+avatar: "images/8-bit Jacob.jpeg"
 
 # Build settings
 markdown: kramdown
