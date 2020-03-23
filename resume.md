@@ -76,12 +76,6 @@ I am happiest when building stuff.
 + **Description:**	Condolux is a luxury vacation management company directed by a small team of designers and developers. The web development department maintains 10+ websites & blogs related to the vacation and golf industries in Myrtle Beach, SC. While at Condolux I had the opportunity of working on multiple projects carrying heavy workloads while maintaining tight deadlines. I was involved helping develop and maintain 10+ websites and blogs, implementing CSS, HTML, Javascript, JQuery, Flash, and PHP technologies as well as updating Wordpress & Joomla Content Management Systems.
 <br><br>
 
-+ **Client:**	Jacob N Langley
-+ **Position:**	August 2007 – present: Graphic & Web design & development work as principal at my own freelance design / dev studio
-+ **Environment:**  CSS, HTML, jQuery, PHP, Wordpress, Dreamweaver, Photoshop, Illustrator.
-+ **Description:**	DBA as Jacob N Langley is my personal design / development studio. The scope of work ranges from web development consulting to design & illustration for weddings, charity fundraisers & logo development for restaurants, technology companies & a movie studio.
-<br><br>
-
 + **Client:** 	Masterpiece Staircase & Millwork
 + **Position:**	August 2005 – August 2007: Senior Designer at Masterpiece Staircase and Millwork in Charlotte, NC
 + **Environment:**	HTML, JavaScript, CSS, Flash, Photoshop, Illustrator, AutoCAD, CNC programming via Biesse Works & ArtCAM  	
