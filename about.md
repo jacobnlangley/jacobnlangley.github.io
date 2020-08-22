@@ -2,12 +2,12 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
+Hi, I'm Jacob.
 
-I live in Atlanta, GA.
+I am a people person web developer with over 12 years of experience authoring websites and software solutions for a wide range of clients. I develop responsive websites and applications employing the most current front-end technologies. 
 
-I am a Front-End Web Developer proficient in HTML5, CSS3, jQuery, Javascript, AJAX, JSON, PHP, Wordpress, Magento.
+In need of web development services?
 
-In need of web development services? [Hire Me](mailto:jacob@jacobnlangley.com?subject=Project Inquiry)
-
-Please [get in touch](mailto:jacob@jacobnlangley.com).
+Please [reach out](mailto:jacob@jacobnlangley.com?subject=Project Inquiry).
