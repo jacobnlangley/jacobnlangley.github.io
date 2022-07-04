@@ -21,4 +21,4 @@ There is no beginning. No point of departure. No destination. No place at which 
 
 This place for instance.
 
-![Hugo Theme LoveIt](/images/i-am-am-i.jpg)
+![Hugo Theme LoveIt](../../images/i-am-am-i.jpg)
