@@ -2,8 +2,11 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://jacobnlangley.github.io/categories/</loc><lastmod>2022-02-25T16:03:52-04:00</lastmod></url><url>
+            <loc>https://jacobnlangley.github.io/tags/html/</loc><lastmod>2022-02-25T16:03:52-04:00</lastmod></url><url>
             <loc>https://jacobnlangley.github.io/</loc><lastmod>2022-02-25T16:03:52-04:00</lastmod></url><url>
+            <loc>https://jacobnlangley.github.io/tags/markdown/</loc><lastmod>2022-02-25T16:03:52-04:00</lastmod></url><url>
             <loc>https://jacobnlangley.github.io/posts/nothing-ever-begins/</loc><lastmod>2022-02-25T16:03:52-04:00</lastmod></url><url>
             <loc>https://jacobnlangley.github.io/posts/</loc><lastmod>2022-02-25T16:03:52-04:00</lastmod></url><url>
-            <loc>https://jacobnlangley.github.io/categories/</loc></url><url>
-            <loc>https://jacobnlangley.github.io/tags/</loc></url></urlset>
+            <loc>https://jacobnlangley.github.io/tags/</loc><lastmod>2022-02-25T16:03:52-04:00</lastmod></url><url>
+            <loc>https://jacobnlangley.github.io/categories/writing/</loc><lastmod>2022-02-25T16:03:52-04:00</lastmod></url></urlset>
