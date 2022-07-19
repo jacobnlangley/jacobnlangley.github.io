@@ -14,15 +14,17 @@ categories: ["writing"]
 lightgallery: true
 ---
 
->"There is no first moment, no single word or place from which this or any other story begins…
+>Nothing ever begins.
 >
->… It must be arbitrary, then the place at which we choose to embark.
+>There is no first moment; no single word or place from which this or any story springs.
 >
->This place for instance.”
+>The threads can always be traced back to some earlier tale, and the tales that preceded that; though as the
+>narrator's voice recedes the connections will seem to grow more tenuous, for each age will want the tale told as if
+>it were of its own making.
 >
->*Weaveworld ~ Clive Barker*
+>*Clive Barker ~ Weaveworld*
 
-I read Weaveworld many many years ago as a young twenty-something. I have always loved this beginning. This embarkation. For some reason I have always remembered these words. I don’t know why I can recall this passage over so many other countless passages I have absorbed in the years since first I read Barker’s story. They have always been with me, words of fiction actualized in some small measure in the world through my own experiences. The words resonate. They have been my constant companions, silent and sleeping in the the small secret places of my being.
+ I have always loved this beginning. This embarkation. For some reason I have always remembered these words. I don’t know why I can recall this passage over so many other countless passages I have absorbed in the years since first I read Barker’s story. They have always been with me, words of fiction actualized in some small measure in the world through my own experiences. The words resonate. They have been my constant companions, silent and sleeping in the the small secret places of my being.
 
 There is no beginning. No point of departure. No destination. No place at which we arrive. Life is an endless series of moments, present and immediate.
 
