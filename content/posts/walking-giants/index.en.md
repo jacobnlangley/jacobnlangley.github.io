@@ -16,7 +16,7 @@ gallery: true
 
 Into the trees, they walked.
 
-Heads down, kicking rocks like giants canvasing a vast geography.
+Heads down, kicking rocks like giants canvassing a vast geography.
 
 They spoke nothing, feeling the silence was the fragile bond that held them together.
 
