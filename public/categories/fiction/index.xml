@@ -1,9 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>illustration - Category - jac0blangl3y</title>
-        <link>https://jacobnlangley.github.io/categories/illustration/</link>
-        <description>illustration - Category - jac0blangl3y</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 03 Apr 2022 16:02:25 -0400</lastBuildDate><atom:link href="https://jacobnlangley.github.io/categories/illustration/" rel="self" type="application/rss+xml" /><item>
+        <title>fiction - Category - jac0blangl3y</title>
+        <link>https://jacobnlangley.github.io/categories/fiction/</link>
+        <description>fiction - Category - jac0blangl3y</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 03 Apr 2022 16:02:25 -0400</lastBuildDate><atom:link href="https://jacobnlangley.github.io/categories/fiction/" rel="self" type="application/rss+xml" /><item>
     <title>Walking Giants</title>
     <link>https://jacobnlangley.github.io/posts/walking-giants/</link>
     <pubDate>Sun, 03 Apr 2022 16:02:25 -0400</pubDate>

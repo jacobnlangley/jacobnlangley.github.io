@@ -3,21 +3,5 @@
         <title>Tags - Tag - jac0blangl3y</title>
         <link>https://jacobnlangley.github.io/tags/</link>
         <description>Tags - Tag - jac0blangl3y</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 03 Apr 2022 16:02:25 -0400</lastBuildDate><atom:link href="https://jacobnlangley.github.io/tags/" rel="self" type="application/rss+xml" /><item>
-    <title>HTML</title>
-    <link>https://jacobnlangley.github.io/tags/html/</link>
-    <pubDate>Sun, 03 Apr 2022 16:02:25 -0400</pubDate>
-    <author>jac0blangl3y</author>
-    <guid>https://jacobnlangley.github.io/tags/html/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Markdown</title>
-    <link>https://jacobnlangley.github.io/tags/markdown/</link>
-    <pubDate>Sun, 03 Apr 2022 16:02:25 -0400</pubDate>
-    <author>jac0blangl3y</author>
-    <guid>https://jacobnlangley.github.io/tags/markdown/</guid>
-    <description><![CDATA[]]></description>
-</item>
-</channel>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://jacobnlangley.github.io/tags/" rel="self" type="application/rss+xml" /></channel>
 </rss>

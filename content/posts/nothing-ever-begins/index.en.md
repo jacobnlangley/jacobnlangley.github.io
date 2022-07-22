@@ -8,7 +8,7 @@ resources:
 - name: "featured-image"
   src: "featured-image.jpg"
 
-categories: ["fiction", "illustration"]
+categories: ["memoir", "illustration"]
 
 gallery: false
 ---
@@ -23,7 +23,7 @@ gallery: false
 >
 >*Clive Barker ~ Weaveworld*
 
- I have always loved this beginning. This embarkation. For some reason I have always remembered these words. I don’t know why I can recall this passage over so many other countless passages I have absorbed in the years since first I read Barker’s story. They have always been with me, words of fiction actualized in some small measure in the world through my own experiences. The words resonate. They have been my constant companions, silent and sleeping in the the small secret places of my being.
+ I have always loved this beginning. This embarkation. For some reason I have always remembered these words. I don’t know why I can recall this passage over so many other countless passages I have absorbed in the years since first I read Barker’s story. They have always been with me, words of fiction actualized in some small measure in the world through my own experiences. The words resonate. They have been my constant companions, silent and sleeping in the the small secret spaces of my being.
 
 There is no beginning. No point of departure. No destination. No place at which we arrive. Life is an endless series of moments, present and immediate.
 
