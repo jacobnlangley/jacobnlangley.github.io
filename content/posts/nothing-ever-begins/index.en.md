@@ -8,10 +8,9 @@ resources:
 - name: "featured-image"
   src: "featured-image.jpg"
 
-tags: ["Markdown", "HTML"]
-categories: ["writing"]
+categories: ["fiction", "illustration"]
 
-lightgallery: true
+gallery: false
 ---
 
 >Nothing ever begins.

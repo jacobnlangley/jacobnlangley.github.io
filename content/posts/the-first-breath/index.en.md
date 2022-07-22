@@ -8,10 +8,9 @@ resources:
 - name: "featured-image"
   src: "featured-image.jpg"
 
-tags: ["Markdown", "HTML"]
-categories: ["writing"]
+categories: ["fiction", "illustration"]
 
-gallery: true
+gallery: false
 ---
 
 In his hand he held the first breath of the universe, the initial urge, the finite moment from which the shadow of the infinite had seeped forth.

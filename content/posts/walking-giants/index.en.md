@@ -8,10 +8,9 @@ resources:
 - name: "featured-image"
   src: "featured-image.jpg"
 
-tags: ["Markdown", "HTML"]
-categories: ["illustration"]
+categories: ["fiction", "illustration"]
 
-gallery: true
+gallery: false
 ---
 
 Into the trees, they walked.
