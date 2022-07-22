@@ -1,7 +1,7 @@
 ---
 title: "Walking Giants"
 date: 2022-04-03T16:02:25-04:00
-author: jac&#216;b
+author: jac&#216;blangl3y
 draft: false
 images: []
 resources:

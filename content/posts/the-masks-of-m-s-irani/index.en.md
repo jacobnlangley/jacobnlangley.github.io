@@ -1,7 +1,7 @@
 ---
 title: "The Masks of M.S. Irani"
 date: 2022-03-21T16:02:25-04:00
-author: jac&#216;b
+author: jac&#216;blangl3y
 draft: false
 images: []
 resources:

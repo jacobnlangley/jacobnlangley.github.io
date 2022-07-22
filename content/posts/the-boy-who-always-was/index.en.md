@@ -2,7 +2,7 @@
 ---
 title: "The Boy Who Always Was"
 date: 2022-04-07T16:02:25-04:00
-author: jac&#216;b
+author: jac&#216;blangl3y
 draft: false
 images: []
 resources:
@@ -16,7 +16,7 @@ gallery: false
 
 He had always been.
 
-His memory stretching, like iron rails of a locomotive toward the heat-hazed horizon, was interminable.
+His memory, stretching like iron rails of a locomotive toward the heat-hazed horizon, was interminable.
 
 He had always been, at the beginning of all things, gazing into the breadth of eternity.
 
